@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Visualization and EDA**
 
 - 🌱 I’m currently learning **Data Analysis and Machine Learning**
-- 
+  
 - 👨‍💻 All of my projects are available at [https://rejinadel.github.io/Portfolio.github.io/](https://rejinadel.github.io/Portfolio.github.io/)
 
 - 💬 Ask me about **SQL and Database**
