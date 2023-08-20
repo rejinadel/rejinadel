@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Data Analysis and Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@laxmighimire202](https://medium.com/@laxmighimire202)
-
 - 💬 Ask me about **SQL and Database**
 
 - 📫 How to reach me **laxmighimire202@gmail.com**
