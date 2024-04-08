@@ -1,5 +1,5 @@
 <h1 align="center">Hey everyone 👋, I'm Rezna Laxmi Ghimire</h1>
-<h3 align="center">A Passionate Data Science Student</h3>
+<h3 align="center">A Passionate ML Student</h3>
 
 
 <p align="left"> <a href="https://twitter.com/@rl_ghi26609" target="blank"><img src="https://img.shields.io/twitter/follow/@rl_ghi26609?logo=twitter&style=for-the-badge" alt="@rl_ghi26609" /></a> </p>
