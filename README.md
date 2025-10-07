@@ -1,14 +1,14 @@
 <h1 align="center">Hey everyone 👋, I'm Rezna Laxmi Ghimire</h1>
-<h3 align="center">A Passionate ML Student</h3>
+<h3 align="center">A Passionate Learner(all about data)</h3>
 
 
 <p align="left"> <a href="https://twitter.com/@rl_ghi26609" target="blank"><img src="https://img.shields.io/twitter/follow/@rl_ghi26609?logo=twitter&style=for-the-badge" alt="@rl_ghi26609" /></a> </p>
 
-- 🔭 I’m currently working on **Visualization and EDA**
+- 🔭 I’m currently working on **Object Detection**
 
-- 🌱 I’m currently learning **Data Analysis and Machine Learning**
+- 🌱 I’m currently learning **Agents**
 
-- 💬 Ask me about **SQL and Database**
+- 💬 Ask me about **Data processing , object detection ,model training , data architecture**
 
 - 📫 How to reach me **laxmighimire202@gmail.com**
 
