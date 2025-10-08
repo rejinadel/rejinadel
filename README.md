@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone 👋, I'm Rezna Laxmi Ghimire</h1>
+<h1 align="center">Hey everyone 👋, I'm  Laxmi Ghimire(Rezna)</h1>
 <h3 align="center">A Passionate Learner(all about data)</h3>
 
 
