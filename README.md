@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/@rl_ghi26609" target="blank"><img src="https://img.shields.io/twitter/follow/@rl_ghi26609?logo=twitter&style=for-the-badge" alt="@rl_ghi26609" /></a> </p>
 
-- 🔭 I’m currently working on **Object Detection**
+- 🔭 I’m currently working on **Data Engineering ETL**
 
-- 🌱 I’m currently learning **Agents**
+- 🌱 I’m currently learning **Building pipelines**
 
 - 💬 Ask me about **Data processing , object detection ,model training , data architecture**
 
